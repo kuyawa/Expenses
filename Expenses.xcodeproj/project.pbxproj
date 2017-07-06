@@ -30,6 +30,7 @@
 		F445843A1F0DC8F00091A9AD /* EntryController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntryController.swift; sourceTree = "<group>"; };
 		F445843C1F0DD6090091A9AD /* Todo.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Todo.txt; sourceTree = "<group>"; };
 		F445843D1F0DEEDF0091A9AD /* EntryManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntryManager.swift; sourceTree = "<group>"; };
+		F4A22F711F0ED76D00ACCFEC /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		F4B69A741F0E7D9400BD7F02 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; wrapsLines = 0; };
 /* End PBXFileReference section */
 
@@ -47,6 +48,7 @@
 		F44584151F0DBA330091A9AD = {
 			isa = PBXGroup;
 			children = (
+				F4A22F711F0ED76D00ACCFEC /* Readme.md */,
 				F445843C1F0DD6090091A9AD /* Todo.txt */,
 				F44584201F0DBA330091A9AD /* Expenses */,
 				F445841F1F0DBA330091A9AD /* Products */,
