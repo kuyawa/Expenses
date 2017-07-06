@@ -1,0 +1,16 @@
+TODO:
+
+- Reject blank entries before saving
+x USe entry date for editing
+x Use selected year, month for new entry
+x Prev/Next month
+x Fetch by month
+x nextId = max(entryId) + 1
+x Calc totals
+x Delete entry
+x Select to modify
+x Add entry
+x List entries
+x Model data
+x Launchscreen
+x AppIcon
